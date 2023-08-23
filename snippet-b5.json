@@ -32,5 +32,5 @@
 			"<%$1  %>"
 		],
 		"description": "EJS en if, forEach, etc..."
-	},
+	}
 }
