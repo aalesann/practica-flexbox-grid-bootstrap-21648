@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: start;
+    height: 800px;
+    width: 800px;
+    border: 1px dotted;
+    
+}
+
+.contenedor div {
+    background-color: red;
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
